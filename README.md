@@ -1,2 +1,2 @@
-# background-generator
-Randomly Generate Background
+# webdev
+Background Generator Project
