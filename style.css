@@ -8,7 +8,7 @@ body{
 	
 }
 
-h1, h2, h3{
+h1, h2, h3, button {
 	font-family: "Raleway";
 	color: white;
 	text-align: center;
@@ -17,14 +17,11 @@ h1, h2, h3{
 
 button {
 	cursor: pointer;
-	background: white;
-	text-align: center;
-	font: 100 1em 'Raleway', Helvetica;
+	background: linear-gradient(to right, #78f035, #007894);
 	text-shadow: .2em;
 	text-transform: uppercase;
 	border-radius: 4em;
 	font-family : inherit;
-        font-size: 1em;
 	
 }
 
