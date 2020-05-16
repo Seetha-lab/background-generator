@@ -21,6 +21,9 @@ button {
 	text-align: center;
 	border-radius: 3em;
 	font: 100 1em 'Raleway', Helvetica;
+	font: 100 1em 'Raleway', Helvetica;
+	text-shadow: .2em;
+	text-transform: uppercase;
 	
 }
 
