@@ -66,5 +66,3 @@ function randomnumbers()
 	color2.value="#"+random2;
 	setgradient();
 }
-
-
