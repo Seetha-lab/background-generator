@@ -15,3 +15,13 @@ h1, h2, h3{
 	letter-spacing: .3em;
 }
 
+button {
+	cursor: pointer;
+	background: white;
+	text-align: center;
+	border-radius: 3em;
+	font: 100 1em 'Raleway', Helvetica;
+	
+}
+
+
