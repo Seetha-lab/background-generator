@@ -19,11 +19,10 @@ button {
 	cursor: pointer;
 	background: white;
 	text-align: center;
-	border-radius: 3em;
-	font: 100 1em 'Raleway', Helvetica;
 	font: 100 1em 'Raleway', Helvetica;
 	text-shadow: .2em;
 	text-transform: uppercase;
+	border-radius: 4em;
 	
 }
 
