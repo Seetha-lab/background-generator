@@ -23,6 +23,8 @@ button {
 	text-shadow: .2em;
 	text-transform: uppercase;
 	border-radius: 4em;
+	font-family : inherit;
+        font-size: 1em;
 	
 }
 
