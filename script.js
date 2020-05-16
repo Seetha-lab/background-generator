@@ -1,3 +1,10 @@
+var test = require('lodash');
+//console.log(test);
+
+var array=[1,2,3,4,5,6,7,8];
+console.log("without",test.without(array,8));
+console.log("concat",test.concat(array,4,"a",[1],[1,2,3,[4,5,6]]));
+
 var color1=document.querySelector(".color1");
 var color2=document.querySelector(".color2");
 var h3=document.querySelector("h3");
@@ -46,7 +53,8 @@ function rgbToHex(r, g, b) {
 
 function setgradient() {
 
-	body.style.background="linear-gradient(to right,"+ color1.value + "," + color2.value + ")" ;
+  body.style.background="linear-gradient(to right,"+ color1.value + "," + color2.value + ")" ;
+  button.style.background="linear-gradient(to right,"+ color1.value + "," + color2.value + ")" ;
 
 h3.textContent=body.style.background;
 
